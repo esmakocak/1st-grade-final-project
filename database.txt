@@ -1,0 +1,4 @@
+HH74 Iremnur Yanik 19 Eskisehir 01.06.2020 0 NULL
+UL64 Esma Kocak 20 Istanbul 01.06.2020 0 NULL 
+YL73 Tugbanur Kusca 23 Mersin 01.06.2020 0 NULL 
+IZ36 Seymanur Yildiz 18 Antalya 01.06.2020 0 NULL 
